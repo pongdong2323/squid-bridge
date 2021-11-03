@@ -18,3 +18,4 @@ if my == dab:
     print("맞다")
 else:
     print("빵")
+    print("QKd")
